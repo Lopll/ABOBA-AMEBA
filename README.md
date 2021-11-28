@@ -1,2 +1,1 @@
-# ABOBA-AMEBA
-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA-ABOBA-AMEBA
+Гуглил (яндексил) много всякой ереси. Понял, что power shell мне никак не поможет, затем полез в редактор реестра, пробовал там что-то менять, отследив изменения при включении и отключении ночного света, но изменения не позволяли управлять виндой. Затем принялся писать форму на шарпе, чтобы наглядно управлять, но не нашёл способа работы с этим светом. В итоге остаётся познать питон, чтобы дописать программу, а код для ардуино был проработан в первые 30 минут моей работы над этим всем проектом.
